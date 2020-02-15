@@ -1,0 +1,1 @@
+https://github.com/ivansemak/emtyTwo/blob/gh-pages/cv.md
